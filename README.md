@@ -1,6 +1,6 @@
 # modern-dashboard-ui-2
 # Simple UI Dashboard with modern design
-Project for SoftServe DualStudy learning program. Applications is built on 
+Project for SoftServe DualStudy learning program. Application is built on 
 - Java 1.8
 - Netbeans IDE
 - Junit 4
